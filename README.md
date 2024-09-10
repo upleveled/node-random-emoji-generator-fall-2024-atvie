@@ -31,4 +31,4 @@ TODO:
 
 - [x] get user input
 - [x] figure out how to print emoji based on user input
-- [ ] figure out how to print the error message
+- [x] figure out how to print the error message
