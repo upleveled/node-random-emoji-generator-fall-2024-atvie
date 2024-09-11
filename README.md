@@ -28,7 +28,6 @@ TODO:
 - [x] figure out how to print an emoji
 - [x] figure out how to get a random emoji, maybe form library
 - [x] figure out how to randomize the emoji
-
-- [x] get user input
+- [x] figure out how to get user input
 - [x] figure out how to print emoji based on user input
 - [x] figure out how to print the error message
